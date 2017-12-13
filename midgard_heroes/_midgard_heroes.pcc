@@ -29,6 +29,8 @@ ABILITY:mh_abilities_race.lst
 ABILITYCATEGORY:mh_abilitycategories.lst
 BIOSET:mh_biosettings.lst
 
+EQUIPMENT:mh_weapons.lst
+
 LANGUAGE:mh_languages.lst
 
 WEAPONPROF:mh_profs_weapon.lst
