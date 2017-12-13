@@ -1,0 +1,35 @@
+# CVS $Revision$ $Author$
+CAMPAIGN:Midgard Heroes
+KEY:5e - Midgard Heroes
+RANK:1
+BOOKTYPE:Supplement
+GAMEMODE:5e
+SHOWINMENU:YES
+STATUS:BETA
+TYPE:Midgard Heroes.Supplement
+SOURCELONG:Midgard Heroes
+SOURCESHORT:MH
+SOURCEDATE:2015-01
+PUBNAMELONG:Kobold Press
+PUBNAMESHORT:KP
+PUBNAMEWEB:http://www.koboldpress.com
+COPYRIGHT:Copyright 2015, Open Design
+COPYRIGHT:PCGen dataset conversion for "Midgard Heroes" Copyright 2017, Stephen Hurd
+
+#INFOTEXT:OGL.txt
+INFOTEXT:Midgard Heroes - Races and Background for 5th Edition
+
+PCC:../../wizards_of_the_coast/universal_rules/_universal_rules.pcc
+PCC:../../wizards_of_the_coast/srd5/_system_reference_document_5.0.pcc
+
+#
+ABILITY:mh_abilities.lst
+ABILITY:mh_abilities_race.lst
+ABILITYCATEGORY:mh_abilitycategories.lst
+BIOSET:mh_biosettings.lst
+
+LANGUAGE:mh_languages.lst
+
+RACE:mh_races.lst
+
+INFOTEXT:Supports 6.07.05

@@ -1,0 +1,6 @@
+# CVS $Revision: $ $Author: $
+# SOURCELONG:Midgard Heroes	SOURCESHORT:MH
+# Original Entry: See contributors listed in PCC file.
+
+# Ability Category						Visible		Editable?		Change Pool?	Base Pool number						Category of Object		Type of Object											Specific choices list																				Display Location
+ABILITYCATEGORY:Alseid Trait					VISIBLE:QUALIFY	EDITABLE:YES		EDITPOOL:NO									CATEGORY:Special Ability	TYPE:Alseid Trait																																DISPLAYLOCATION:Character

@@ -1,0 +1,7 @@
+# CVS $Revision: $ $Author: $
+SOURCELONG:Migard Heroes	SOURCESHORT:MH	SOURCEDATE:2015-01
+# Original Entry: See contributors listed in PCC file.
+
+# Standard
+# Language	Type						Var. Min. Value
+Trade Tongue	TYPE:Spoken.Common
