@@ -2,5 +2,9 @@
 SOURCELONG:Kobold Press - Midgard Heroes	SOURCESHORT:MH	SOURCEWEB:http://www.koboldpress.com/	SOURCEDATE:2015-01
 # Original Entry: See contributors listed in PCC file.
 
+# Languages
 Trade Tongue		CATEGORY:Language		TYPE:Language.Spoken.Trade Tongue	AUTO:LANG|Trade Tongue
 Centaur			CATEGORY:Language		TYPE:Language.Spoken.Centaur		AUTO:LANG|Trade Tongue
+
+# Weapon proficiencies
+Hooves			CATEGORY:Weapon			TYPE:Weapon Proficiency			AUTO:WEAPONPROF|Hooves		BONUS:WEAPONPROF=Hooves|TOHIT|Proficiency_Bonus|TYPE=Class
