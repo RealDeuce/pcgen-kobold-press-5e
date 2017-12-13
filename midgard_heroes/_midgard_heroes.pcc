@@ -7,8 +7,9 @@ GAMEMODE:5e
 SHOWINMENU:YES
 STATUS:ALPHA
 TYPE:Midgard Heroes.Supplement
-SOURCELONG:Midgard Heroes
+SOURCELONG:Kobold Press - Midgard Heroes
 SOURCESHORT:MH
+SOURCEWEB:http://www.koboldpress.com/
 SOURCEDATE:2015-01
 PUBNAMELONG:Kobold Press
 PUBNAMESHORT:KP
@@ -29,6 +30,8 @@ ABILITYCATEGORY:mh_abilitycategories.lst
 BIOSET:mh_biosettings.lst
 
 LANGUAGE:mh_languages.lst
+
+WEAPONPROF:mh_profs_weapon.lst
 
 RACE:mh_races.lst
 
