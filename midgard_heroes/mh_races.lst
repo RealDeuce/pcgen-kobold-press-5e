@@ -3,5 +3,6 @@ SOURCELONG:Midgard Heroes	SOURCESHORT:MH	SOURCEDATE:2015-01
 # Original Entry: See contributors listed in PCC file.
 
 # Basic Rules Races
-# Race Name	SORTKEY		Size		Move			Stat bonus					Ability								Nb Legs	Nb Hands	Main Race Type	Race Subtype		Type			Source Page
-Alseid		SORTKEY:Base_PC	SIZE:M	MOVE:Walk,40	BONUS:STAT|DEX|2	BONUS:STAT|WIS|1	ABILITY:Internal|AUTOMATIC|Racial Trait ~ Alseid		LEGS:4	HANDS:2	RACETYPE:Monstrosity	RACESUBTYPE:Alseid		TYPE:Monstrosity.PC	SOURCEPAGE:p.3
+# Race Name		SORTKEY		Size		Move			Stat bonus					Ability								Nb Legs	Nb Hands	Main Race Type	Race Subtype		Type			Source Page
+Alseid			SORTKEY:Base_PC	SIZE:M	MOVE:Walk,40	BONUS:STAT|DEX|2	BONUS:STAT|WIS|1	ABILITY:Internal|AUTOMATIC|Racial Trait ~ Alseid		LEGS:4	HANDS:2	RACETYPE:Monstrosity	RACESUBTYPE:Alseid			TYPE:Monstrosity.PC	SOURCEPAGE:p.3
+Centaur (Midgard)	SORTKEY:Base_PC	SIZE:L	MOVE:Walk,40	BONUS:STAT|STR|2	BONUS:STAT|WIS|1	ABILITY:Internal|AUTOMATIC|Racial Trait ~ Centaur		LEGS:4	HANDS:2	RACETYPE:Monstrosity	RACESUBTYPE:Centaur			TYPE:Monstrosity.PC	SOURCEPAGE:p.4

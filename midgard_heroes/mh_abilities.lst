@@ -2,4 +2,5 @@
 SOURCELONG:Midgard Heroes	SOURCESHORT:MH	SOURCEDATE:2015-01
 # Original Entry: See contributors listed in PCC file.
 
-Trade Tongue		CATEGORY:Language		TYPE:Language.Spoken.Common		AUTO:LANG|Trade Tongue
+Trade Tongue		CATEGORY:Language		TYPE:Language.Spoken.Trade Tongue	AUTO:LANG|Trade Tongue
+Centaur			CATEGORY:Language		TYPE:Language.Spoken.Centaur		AUTO:LANG|Trade Tongue
