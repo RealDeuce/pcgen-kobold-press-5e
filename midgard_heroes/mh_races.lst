@@ -10,4 +10,4 @@ Alseid			SORTKEY:Base_PC	SIZE:M	MOVE:Walk,40	BONUS:STAT|DEX|2	BONUS:STAT|WIS|1	A
 # Hooves still need a bunch of work...
 Centaur (Midgard)	SORTKEY:Base_PC	SIZE:L	MOVE:Walk,40	BONUS:STAT|STR|2	BONUS:STAT|WIS|1	ABILITY:Internal|AUTOMATIC|Racial Trait ~ Centaur		LEGS:4	HANDS:2	RACETYPE:Monstrosity	RACESUBTYPE:Centaur			TYPE:Monstrosity.PC	SOURCEPAGE:p.4		OUTPUTNAME:Centaur	NATURALATTACKS:Hooves,Weapon.Natural.Melee.Bludgeoning,*1,2d6
 
-Dragonkin		SORTKEY:Base_PC SIZE:M	Move:Walk,25	BONUS:STAT|CHA|2				ABILITY:Internal|AUTOMATIC|Racial Trait ~ Dragonkin		LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Dragonkin			TYPE:Humanoid.PC	SOURCEPAGE:p.5
+Dragonkin		SORTKEY:Base_PC SIZE:M	MOVE:Walk,25	BONUS:STAT|CHA|2				ABILITY:Internal|AUTOMATIC|Racial Trait ~ Dragonkin		LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Dragonkin			TYPE:Humanoid.PC	SOURCEPAGE:p.5
