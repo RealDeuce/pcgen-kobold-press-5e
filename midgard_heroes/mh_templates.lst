@@ -4,3 +4,6 @@ SOURCELONG:Midgard Heroes	SOURCESHORT:MH	SOURCEWEB:http://www.koboldpress.com/	S
 
 Subrace ~ Flame	VISIBLE:NO	SUBRACE:Flame
 Subrace ~ Wind	VISIBLE:NO	SUBRACE:Wind
+Subrace ~ Stone	VISIBLE:NO	SUBRACE:Stone
+Subrace ~ Wave	VISIBLE:NO	SUBRACE:Wave
+Subrace ~ Edjet	VISIBLE:NO	SUBRACE:Edjet
