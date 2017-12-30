@@ -68,7 +68,7 @@ Soldier's Eye		KEY:Edjet Dragonkin ~ Soldier's Eye			SORTKEY:1_Race	CATEGORY:Spe
 Resilient Scales	KEY:Edjet Dragonkin ~ Resilient Scales			SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Dragonkin Trait.Edjet Dragonkin Trait.SpecialQuality.Race Trait		VISIBLE:EXPORT	DESC:You have resistance to poison damage.																																																																																								SOURCEPAGE:p.6
 
 
-CATEGORY=Elf Subrace|High Elf.COPY=River Elf
-CATEGORY=Elf Subrace|High Elf.FORGET
-CATEGORY=Elf Subrace|Wood Elf.COPY=Windrunner Elf
-CATEGORY=Elf Subrace|Wood Elf.FORGET
+CATEGORY=Internal|High Elf.COPY=River Elf
+CATEGORY=Internal|High Elf.FORGET
+CATEGORY=Internal|Wood Elf.COPY=Windrunner Elf
+CATEGORY=Internal|Wood Elf.FORGET
