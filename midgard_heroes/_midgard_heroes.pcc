@@ -37,4 +37,6 @@ WEAPONPROF:mh_profs_weapon.lst
 
 RACE:mh_races.lst
 
+TEMPLATE:mh_templates.lst
+
 INFOTEXT:Supports 6.07.05
