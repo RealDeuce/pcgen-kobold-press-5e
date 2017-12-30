@@ -6,4 +6,4 @@
 ABILITYCATEGORY:Alseid Trait					VISIBLE:QUALIFY	EDITABLE:YES		EDITPOOL:NO									CATEGORY:Special Ability	TYPE:Alseid Trait																																DISPLAYLOCATION:Character
 ABILITYCATEGORY:Centaur Trait					VISIBLE:QUALIFY	EDITABLE:YES		EDITPOOL:NO									CATEGORY:Special Ability	TYPE:Centaur Trait																																DISPLAYLOCATION:Character
 ABILITYCATEGORY:Dragonkin Trait					VISIBLE:QUALIFY	EDITABLE:YES		EDITPOOL:NO									CATEGORY:Special Ability	TYPE:Dragonkin Trait																																DISPLAYLOCATION:Character
-ABILITYCATEGORY:Dragonkin Subrace				VISIBLE:QUALIFY	EDITABLE:YES		EDITPOOL:NO									CATEGORY:Internal		TYPE:DragonkinSubrace																																DISPLAYLOCATION:Character
+ABILITYCATEGORY:Dragonkin Subrace				VISIBLE:QUALIFY	EDITABLE:YES		EDITPOOL:NO									CATEGORY:Internal		TYPE:Dragonkin Subrace																																DISPLAYLOCATION:Character
