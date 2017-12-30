@@ -13,4 +13,3 @@ Centaur (Midgard)	SORTKEY:Base_PC	SIZE:L	MOVE:Walk,40	BONUS:STAT|STR|2	BONUS:STA
 Dragonkin		SORTKEY:Base_PC SIZE:M	MOVE:Walk,25	BONUS:STAT|CHA|2				ABILITY:Internal|AUTOMATIC|Racial Trait ~ Dragonkin		LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Dragonkin			TYPE:Humanoid.PC	SOURCEPAGE:p.5
 
 Half-Elf.MOD		OUTPUTNAME:Elfmarked
-Half-Elf.FORGET
