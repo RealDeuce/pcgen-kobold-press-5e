@@ -66,3 +66,9 @@ Resilient Scales	KEY:Wave Dragonkin ~ Resilient Scales			SORTKEY:1_Race	CATEGORY
 Ability Score Increase	KEY:Edjet Dragonkin ~ Ability Score Increase		SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Dragonkin Trait.Edjet Dragonkin Trait.SpecialQuality.Race Trait		VISIBLE:EXPORT	DESC:Your Dexterity score increases by 1.																																																																													BONUS:STAT|DEX|1|TYPE=Racial								SOURCEPAGE:p.6
 Soldier's Eye		KEY:Edjet Dragonkin ~ Soldier's Eye			SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Dragonkin Trait.Edjet Dragonkin Trait.SpecialQuality.Race Trait		VISIBLE:EXPORT	DESC:You know the shocking grasp cantrip. Charisma is your spellcasting ability for it.																																						SPELLS:Storm Strike|TIMES=ATWILL|Shillelagh,CHA+Proficiency_Bonus																																					SOURCEPAGE:p.6
 Resilient Scales	KEY:Edjet Dragonkin ~ Resilient Scales			SORTKEY:1_Race	CATEGORY:Special Ability	TYPE:Dragonkin Trait.Edjet Dragonkin Trait.SpecialQuality.Race Trait		VISIBLE:EXPORT	DESC:You have resistance to poison damage.																																																																																								SOURCEPAGE:p.6
+
+
+High Elf.COPY=River Elf
+High Elf.FORGET
+Wood Elf.COPY=Windrunner Elf
+Wood Elf.FORGET
