@@ -14,3 +14,5 @@ Dragonkin		SORTKEY:Base_PC SIZE:M	MOVE:Walk,25	BONUS:STAT|CHA|2				ABILITY:Inter
 
 Half-Elf.COPY=Elfmarked
 Half-Elf.FORGET
+
+Gearforged		SORTKEY:Base_PC SIZE:M	MOVE:Walk,30							ABILITY:Internal|AUTOMATIC|Racial Trait ~ Gearforged		LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Gearforged			TYPE:Humanoid.PC	SOURCEPAGE:p.9
