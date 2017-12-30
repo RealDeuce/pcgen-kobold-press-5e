@@ -1,0 +1,6 @@
+# CVS $Revision: $ $Author: $
+SOURCELONG:Midgard Heroes	SOURCESHORT:MH	SOURCEWEB:http://www.koboldpress.com/	SOURCEDATE:2015-01
+# Original Entry: See contributors listed in PCC file.
+
+Subrace ~ Flame	VISIBLE:NO	SUBRACE:Flame
+Subrace ~ Wind	VISIBLE:NO	SUBRACE:Wind
