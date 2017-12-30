@@ -2,4 +2,5 @@
 SOURCELONG:Kobold Press - Midgard Heroes	SOURCESHORT:MH	SOURCEWEB:http://www.koboldpress.com/	SOURCEDATE:2015-01
 # Original Entry: See contributors listed in PCC file.
 
+# Hooves still need a bunch of work...
 Hooves	KEY:Hooves	PROFICIENCY:WEAPON|Hooves	TYPE:Weapon.Melee.Natural.Unarmed.Weapon_Melee.Bludgeoning	COST:0	WT:0	CRITRANGE:1	DAMAGE:2d6	SIZE:M
