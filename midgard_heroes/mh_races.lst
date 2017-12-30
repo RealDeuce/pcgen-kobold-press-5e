@@ -1,5 +1,5 @@
 # CVS $Revision: $ $Author: $
-SOURCELONG:Kobold Press - Midgard Heroes	SOURCESHORT:MH	SOURCEWEB:http://www.koboldpress.com/	SOURCEDATE:2015-01
+SOURCELONG:Midgard Heroes	SOURCESHORT:MH	SOURCEWEB:http://www.koboldpress.com/	SOURCEDATE:2015-01
 # Original Entry: See contributors listed in PCC file.
 
 # Basic Rules Races
@@ -9,3 +9,5 @@ Alseid			SORTKEY:Base_PC	SIZE:M	MOVE:Walk,40	BONUS:STAT|DEX|2	BONUS:STAT|WIS|1	A
 # TODO: Although Centaur is large, it can't weild Large weapons...
 # Hooves still need a bunch of work...
 Centaur (Midgard)	SORTKEY:Base_PC	SIZE:L	MOVE:Walk,40	BONUS:STAT|STR|2	BONUS:STAT|WIS|1	ABILITY:Internal|AUTOMATIC|Racial Trait ~ Centaur		LEGS:4	HANDS:2	RACETYPE:Monstrosity	RACESUBTYPE:Centaur			TYPE:Monstrosity.PC	SOURCEPAGE:p.4		OUTPUTNAME:Centaur	NATURALATTACKS:Hooves,Weapon.Natural.Melee.Bludgeoning,*1,2d6
+
+Dragonkin		SORTKEY:Base_PC SIZE:M	Move:Walk,25	BONUS:STAT|CHA|2				ABILITY:Internal|AUTOMATIC|Racial Trait ~ Dragonkin		LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Dragonkin			TYPE:Humanoid.PC	SOURCEPAGE:p.5
