@@ -4,5 +4,7 @@ SOURCELONG:Midgard Heroes	SOURCESHORT:MH	SOURCEWEB:http://www.koboldpress.com/	S
 
 # Standard
 # Language	Type						Var. Min. Value
-Trade Tongue	TYPE:Spoken.Trade Tongue
+#Trade Tongue	TYPE:Spoken.Trade Tongue
+Common.COPY=Trade Tongue
+Common.FORGET
 Centaur		TYPE:Spoken.Centaur

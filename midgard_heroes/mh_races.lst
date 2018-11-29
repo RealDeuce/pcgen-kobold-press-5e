@@ -8,7 +8,7 @@ Alseid			SORTKEY:Base_PC	SIZE:M	MOVE:Walk,40	BONUS:STAT|DEX|2	BONUS:STAT|WIS|1	A
 
 # TODO: Although Centaur is large, it can't weild Large weapons...
 # Hooves still need a bunch of work...
-Centaur (Midgard)	SORTKEY:Base_PC	SIZE:L	MOVE:Walk,40	BONUS:STAT|STR|2	BONUS:STAT|WIS|1	ABILITY:Internal|AUTOMATIC|Racial Trait ~ Centaur		LEGS:4	HANDS:2	RACETYPE:Monstrosity	RACESUBTYPE:Centaur			TYPE:Monstrosity.PC	SOURCEPAGE:p.4		OUTPUTNAME:Centaur	NATURALATTACKS:Hooves,Weapon.Natural.Melee.Bludgeoning,*1,2d6
+Centaur (Midgard)	SORTKEY:Base_PC	SIZE:L	MOVE:Walk,40	BONUS:STAT|STR|2	BONUS:STAT|WIS|1	ABILITY:Internal|AUTOMATIC|Racial Trait ~ Centaur		LEGS:4	HANDS:2	RACETYPE:Monstrosity	RACESUBTYPE:Centaur			TYPE:Monstrosity.PC	SOURCEPAGE:p.4		OUTPUTNAME:Centaur	NATURALATTACKS:Hooves,Weapon.Natural.Melee.Bludgeoning,1,2d6
 
 Dragonkin		SORTKEY:Base_PC SIZE:M	MOVE:Walk,25	BONUS:STAT|CHA|2				ABILITY:Internal|AUTOMATIC|Racial Trait ~ Dragonkin		LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Dragonkin			TYPE:Humanoid.PC	SOURCEPAGE:p.5
 
@@ -16,3 +16,4 @@ Half-Elf.COPY=Elfmarked
 Half-Elf.FORGET
 
 Gearforged		SORTKEY:Base_PC SIZE:M	MOVE:Walk,30							ABILITY:Internal|AUTOMATIC|Racial Trait ~ Gearforged		LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Gearforged			TYPE:Humanoid.PC	SOURCEPAGE:p.9
+Ghoul, Darakhul		SORTKEY:Base_PC	SIZE:M	MOVE:Walk,30	BONUS:STAT|CON|2				ABILITY:Internal|AUTOMATIC|Racial Trait ~ Darakhul		LEGS:2	HANDS:2	RACETYPE:Humanoid	RACESUBTYPE:Darakhul			TYPE:Humanoid.PC	SOURCEPAGE:p.9		OUTPUTNAME:Darakhul	NATURALATTACKS:Bite,Weapon.Natural.Melee.Piercing,1,1d6
